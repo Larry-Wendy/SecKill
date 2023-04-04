@@ -7,7 +7,7 @@ A commodity sec-kill system is designed based on SpringBoot
   - Use MyBatis to interact with MySQL database
 - Distributed session
   - User login
-    -- Design database table
+    - Design database table
     
   
 
